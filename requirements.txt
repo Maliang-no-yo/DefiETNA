@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+flask
+flask_restful
+#qunicorn
+opencv-python
+azure-cognitiveservices-vision-face
